@@ -83,7 +83,7 @@ export default function Cart() {
 
         <footer className="flex items-center justify-between gap-4 p-8 pt-6 border-t border-[#D9D9D9]">
           <a href="#" className="px-7 py-1 border border-black rounded-full">Cart</a>
-          <a href="#" className="px-7 py-1 border border-black rounded-full">Checkout</a>
+          <a href="/checkout" className="px-7 py-1 border border-black rounded-full">Checkout</a>
           <a href="#" className="px-7 py-1 border border-black rounded-full">Comparation</a>
         </footer>
       </dialog>
