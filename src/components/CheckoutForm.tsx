@@ -39,8 +39,8 @@ export default function CheckoutForm() {
   });
   const dispatch = useDispatch<AppDispatch>();
   const cart = useSelector((state: RootState) => state.cart.products);
-  const subtotal = cart.reduce((prev, curr) => curr.price + prev, 0);
-  const total = cart.reduce((prev, curr) => curr.price * curr.quantity + prev, 0);
+  const subtotal = cart.reduce((prev, curr) => (curr.price - curr.price * curr.discount) + prev, 0);
+  const total = cart.reduce((prev, curr) => (curr.price - curr.price * curr.discount) * curr.quantity + prev, 0);
   const navigate = useNavigate();
 
   const zipCode = form.watch("zipCode", "");
@@ -138,7 +138,7 @@ export default function CheckoutForm() {
               className="flex items-center justify-between"
             >
               <p><span className="text-[#9F9F9F]">{product.name}</span> x {product.quantity}</p>
-              <strong className="font-normal">{currency.format(product.price)}</strong>
+              <strong className="font-normal">{currency.format(product.price - product.price * product.discount)}</strong>
             </li>
           ))}
 
