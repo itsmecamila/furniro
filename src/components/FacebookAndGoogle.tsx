@@ -1,17 +1,25 @@
-import { useDispatch } from "react-redux";
-import {loginWithGoogle } from "../redux/user/thunks";
-import { loginWithFacebook } from "../redux/user/thunks";
-import { AppDispatch } from "../redux";
+import { useDispatch } from "react-redux"
 
-export default function FacebookAndGoogle(){
-    const dispatch  = useDispatch<AppDispatch>()
+import { AppDispatch } from "../redux"
+import { loginWithFacebook, loginWithGoogle } from "../redux/user/thunks";
 
-    return(
-        <>
-          <button onClick={()=>dispatch(loginWithGoogle())}>Login With Google</button>
-          <button onClick={()=>dispatch(loginWithFacebook())}>Login With Facebook</button>   
-        </>    
-    )
+export default function FacebookAndGoogle() {
+  const dispatch = useDispatch<AppDispatch>();
+
+  return (
+    <div className="flex flex-col mt-4 gap-2">
+      <button
+        onClick={() => dispatch(loginWithGoogle())}
+        className="h-12 border border-zinc-200 rounded-md"
+      >
+        Sign In with Google
+      </button>
+      <button
+        onClick={() => dispatch(loginWithFacebook())}
+        className="h-12 border border-zinc-200 rounded-md"
+      >
+        Sign In with Facebook
+      </button>
+    </div>
+  )
 }
-
-   
