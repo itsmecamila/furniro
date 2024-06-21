@@ -13,6 +13,8 @@ const userState : UserState = {
 }
 
 export default function userReducer(state = userState, action : any) : UserState{
+    console.log(state);
+    console.log(action);
     switch(action.type){
         case "REGISTER_REQUEST":
         case "LOGIN_REQUEST":
@@ -47,6 +49,6 @@ export default function userReducer(state = userState, action : any) : UserState
         
         
         default:
-            return{...state}
+            return state;
     }
 }
