@@ -1,7 +1,8 @@
 import { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
+
 import { AppDispatch, RootState } from "../redux";
-import { loginWithEmail } from "../redux/user/thunks";
+import { loginWithEmail} from "../redux/user/thunks";
 import { useNavigate } from "react-router-dom";
 import { useForm } from "react-hook-form";
 import { z } from "zod";
@@ -40,13 +41,13 @@ export default function Login() {
 
       <div className="flex flex-col">
         <label htmlFor="email" className="font-medium">Email</label>
-        <input type="text" name="email" id="email"  className="h-12 px-4 mt-4 border border-[#9F9F9F] rounded-md"/>
+        <input type="text" id="email"  className="h-12 px-4 mt-4 border border-[#9F9F9F] rounded-md" {...form.register("email")}/>
         {form.formState.errors.email && <p className="text-red-600">{form.formState.errors.email.message}</p>}
       </div>
 
       <div className="flex flex-col mt-4">
         <label htmlFor="password" className="font-medium">Password</label>
-        <input type="password" name="password" id="password"  className="h-12 px-4 mt-4 border border-[#9F9F9F] rounded-md"/>
+        <input type="password" id="password"  className="h-12 px-4 mt-4 border border-[#9F9F9F] rounded-md" {...form.register("password")}/>
         {form.formState.errors.password && <p className="text-red-600">{form.formState.errors.password.message}</p>}
       </div>
 
