@@ -1,0 +1,2704 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Asgaard Sofa",
+      "description": "A elegant and comfortable sofa that combines modern design with exceptional craftsmanship. Perfect for any living room.",
+      "rating": 4.5,
+      "isNew": false,
+      "price": 250000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+1.png",
+      "category": "Sofas",
+      "tags": [
+        "Sofa",
+        "Chair",
+        "Home",
+        "Shop"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Oslo Recliner",
+      "description": "A plush recliner that provides ultimate relaxation with its adjustable backrest and footrest. Ideal for any cozy corner.",
+      "rating": 4.7,
+      "isNew": false,
+      "price": 180000,
+      "discount": 0.48,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+2.png",
+      "category": "Chairs",
+      "tags": [
+        "Recliner",
+        "Chair",
+        "Comfort",
+        "Relax"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Nordic Dining Table",
+      "description": "A minimalist dining table made from high-quality oak, designed to bring a touch of Scandinavian simplicity to your dining room.",
+      "rating": 4.3,
+      "isNew": false,
+      "price": 350000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+3.png",
+      "category": "Tables",
+      "tags": [
+        "Dining Table",
+        "Furniture",
+        "Oak",
+        "Scandinavian"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Bergen Bookshelf",
+      "description": "A stylish and spacious bookshelf with multiple shelves, perfect for organizing books, decor items, and more.",
+      "rating": 4.8,
+      "isNew": false,
+      "price": 120000,
+      "discount": 0.7,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+4.png",
+      "category": "Storage",
+      "tags": [
+        "Bookshelf",
+        "Storage",
+        "Organization",
+        "Wood"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Helsinki Coffee Table",
+      "description": "A sleek coffee table with a glass top and wooden legs, ideal for adding a modern touch to your living room.",
+      "rating": 4.6,
+      "isNew": false,
+      "price": 80000,
+      "discount": 0.15,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+5.png",
+      "category": "Tables",
+      "tags": [
+        "Coffee Table",
+        "Glass",
+        "Modern",
+        "Living Room"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Stockholm Armchair",
+      "description": "An elegant armchair with plush cushioning and a sturdy frame, perfect for relaxing in style.",
+      "rating": 4.5,
+      "isNew": false,
+      "price": 140000,
+      "discount": 0.51,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+6.png",
+      "category": "Chairs",
+      "tags": [
+        "Armchair",
+        "Comfort",
+        "Living Room",
+        "Furniture"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Copenhagen Bed",
+      "description": "A luxurious bed frame with a high headboard and a sleek design, offering comfort and sophistication to any bedroom.",
+      "rating": 4.9,
+      "isNew": false,
+      "price": 450000,
+      "discount": 0.36,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+7.png",
+      "category": "Beds",
+      "tags": [
+        "Bed",
+        "Bedroom",
+        "Luxury",
+        "Sleep"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Odense Wardrobe",
+      "description": "A spacious wardrobe with sliding doors and multiple compartments, providing ample storage for clothes and accessories.",
+      "rating": 4.7,
+      "isNew": false,
+      "price": 300000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+8.png",
+      "category": "Storage",
+      "tags": [
+        "Wardrobe",
+        "Storage",
+        "Clothes",
+        "Bedroom"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Havana Lounge Chair",
+      "description": "A chic lounge chair with a rattan frame and comfortable cushions, perfect for indoor and outdoor settings.",
+      "rating": 4.4,
+      "isNew": false,
+      "price": 95000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+1.png",
+      "category": "Chairs",
+      "tags": [
+        "Lounge Chair",
+        "Rattan",
+        "Comfort",
+        "Indoor/Outdoor"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Geneva Side Table",
+      "description": "A compact side table with a marble top and metal legs, adding a touch of elegance to any room.",
+      "rating": 4.3,
+      "isNew": false,
+      "price": 45000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+2.png",
+      "category": "Tables",
+      "tags": [
+        "Side Table",
+        "Marble",
+        "Elegant",
+        "Accent Piece"
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Vienna Desk",
+      "description": "A modern desk with ample workspace and built-in storage, perfect for any home office.",
+      "rating": 4.6,
+      "isNew": false,
+      "price": 200000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+3.png",
+      "category": "Desks",
+      "tags": [
+        "Desk",
+        "Home Office",
+        "Modern",
+        "Storage"
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Kyoto Bedside Table",
+      "description": "A minimalist bedside table with a sleek design and a single drawer, ideal for any contemporary bedroom.",
+      "rating": 4.5,
+      "isNew": false,
+      "price": 55000,
+      "discount": 0.54,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+4.png",
+      "category": "Tables",
+      "tags": [
+        "Bedside Table",
+        "Minimalist",
+        "Contemporary",
+        "Bedroom"
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Rome Sofa Bed",
+      "description": "A versatile sofa bed with a comfortable mattress and easy conversion, perfect for small spaces and guest rooms.",
+      "rating": 4.2,
+      "isNew": false,
+      "price": 300000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+5.png",
+      "category": "Sofas",
+      "tags": [
+        "Sofa Bed",
+        "Versatile",
+        "Space Saving",
+        "Guest Room"
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Berlin TV Stand",
+      "description": "A sleek TV stand with open shelving and cable management, perfect for modern entertainment setups.",
+      "rating": 4.7,
+      "isNew": false,
+      "price": 100000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+6.png",
+      "category": "Storage",
+      "tags": [
+        "TV Stand",
+        "Modern",
+        "Entertainment",
+        "Organization"
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Paris Dining Chair",
+      "description": "A stylish dining chair with a cushioned seat and a sturdy wooden frame, perfect for any dining area.",
+      "rating": 4.5,
+      "isNew": false,
+      "price": 60000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+7.png",
+      "category": "Chairs",
+      "tags": [
+        "Dining Chair",
+        "Comfortable",
+        "Stylish",
+        "Dining Room"
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Barcelona Coffee Table",
+      "description": "A contemporary coffee table with a glass top and a unique base design, adding a modern touch to your living space.",
+      "rating": 4.6,
+      "isNew": true,
+      "price": 95000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+8.png",
+      "category": "Tables",
+      "tags": [
+        "Coffee Table",
+        "Contemporary",
+        "Glass",
+        "Living Room"
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Lisbon Sideboard",
+      "description": "A spacious sideboard with multiple drawers and cabinets, perfect for storing dinnerware and kitchen essentials.",
+      "rating": 4.8,
+      "isNew": true,
+      "price": 180000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+1.png",
+      "category": "Storage",
+      "tags": [
+        "Sideboard",
+        "Storage",
+        "Dining Room",
+        "Kitchen"
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Milan Office Chair",
+      "description": "An ergonomic office chair with adjustable settings and lumbar support, designed for comfort during long work hours.",
+      "rating": 4.5,
+      "isNew": false,
+      "price": 120000,
+      "discount": 0.17,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+2.png",
+      "category": "Chairs",
+      "tags": [
+        "Office Chair",
+        "Ergonomic",
+        "Comfort",
+        "Work"
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Amsterdam Bed Frame",
+      "description": "A sturdy bed frame with a simple yet elegant design, suitable for any bedroom decor.",
+      "rating": 4.4,
+      "isNew": false,
+      "price": 250000,
+      "discount": 0.35,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+3.png",
+      "category": "Beds",
+      "tags": [
+        "Bed Frame",
+        "Elegant",
+        "Bedroom",
+        "Sturdy"
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Vienna Dining Set",
+      "description": "A complete dining set with a table and four chairs, crafted from high-quality materials for durability and style.",
+      "rating": 4.9,
+      "isNew": true,
+      "price": 350000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+4.png",
+      "category": "Sets",
+      "tags": [
+        "Dining Set",
+        "Table and Chairs",
+        "Durable",
+        "Stylish"
+      ]
+    },
+    {
+      "id": "21",
+      "name": "Havana Bookshelf",
+      "description": "An elegant bookshelf with a metal frame and wooden shelves, perfect for displaying books and decorative items.",
+      "rating": 4.7,
+      "isNew": false,
+      "price": 110000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+5.png",
+      "category": "Storage",
+      "tags": [
+        "Bookshelf",
+        "Metal",
+        "Wood",
+        "Display"
+      ]
+    },
+    {
+      "id": "22",
+      "name": "Tokyo Floor Lamp",
+      "description": "A stylish floor lamp with an adjustable arm and a modern design, adding ambient lighting to any room.",
+      "rating": 4.5,
+      "isNew": false,
+      "price": 45000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+6.png",
+      "category": "Lighting",
+      "tags": [
+        "Floor Lamp",
+        "Modern",
+        "Adjustable",
+        "Lighting"
+      ]
+    },
+    {
+      "id": "23",
+      "name": "Zurich Sectional Sofa",
+      "description": "A spacious sectional sofa with modular pieces that can be arranged to fit any living room layout.",
+      "rating": 4.6,
+      "isNew": false,
+      "price": 400000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+7.png",
+      "category": "Sofas",
+      "tags": [
+        "Sectional Sofa",
+        "Modular",
+        "Spacious",
+        "Living Room"
+      ]
+    },
+    {
+      "id": "24",
+      "name": "Madrid Ottoman",
+      "description": "A versatile ottoman that can be used as extra seating, a footrest, or a coffee table.",
+      "rating": 4.3,
+      "isNew": false,
+      "price": 75000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+8.png",
+      "category": "Chairs",
+      "tags": [
+        "Ottoman",
+        "Versatile",
+        "Footrest",
+        "Coffee Table"
+      ]
+    },
+    {
+      "id": "25",
+      "name": "Florence Wardrobe",
+      "description": "A beautifully crafted wardrobe with ornate details and ample storage space for clothes and accessories.",
+      "rating": 4.9,
+      "isNew": true,
+      "price": 320000,
+      "discount": 0.57,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+1.png",
+      "category": "Storage",
+      "tags": [
+        "Wardrobe",
+        "Ornate",
+        "Spacious",
+        "Clothes"
+      ]
+    },
+    {
+      "id": "26",
+      "name": "Athens Chest of Drawers",
+      "description": "A stylish chest of drawers with a contemporary design, perfect for storing clothes and other essentials.",
+      "rating": 4.5,
+      "isNew": false,
+      "price": 140000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+2.png",
+      "category": "Storage",
+      "tags": [
+        "Chest of Drawers",
+        "Contemporary",
+        "Clothes",
+        "Storage"
+      ]
+    },
+    {
+      "id": "27",
+      "name": "Seoul Reclining Sofa",
+      "description": "A luxurious reclining sofa with plush cushions and easy-to-use reclining mechanisms, perfect for relaxation.",
+      "rating": 4.8,
+      "isNew": true,
+      "price": 380000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+3.png",
+      "category": "Sofas",
+      "tags": [
+        "Reclining Sofa",
+        "Luxury",
+        "Plush",
+        "Relaxation"
+      ]
+    },
+    {
+      "id": "28",
+      "name": "Sydney Bar Stool",
+      "description": "A modern bar stool with a metal frame and a comfortable seat, ideal for kitchen islands and home bars.",
+      "rating": 4.4,
+      "isNew": false,
+      "price": 60000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+4.png",
+      "category": "Chairs",
+      "tags": [
+        "Bar Stool",
+        "Modern",
+        "Metal",
+        "Comfortable"
+      ]
+    },
+    {
+      "id": "29",
+      "name": "Dubai Coffee Table",
+      "description": "A luxurious coffee table with a glass top and a gold-finished base, adding a touch of opulence to any living room.",
+      "rating": 4.7,
+      "isNew": false,
+      "price": 125000,
+      "discount": 0.36,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+5.png",
+      "category": "Tables",
+      "tags": [
+        "Coffee Table",
+        "Glass",
+        "Gold",
+        "Luxury"
+      ]
+    },
+    {
+      "id": "30",
+      "name": "Prague Bedside Lamp",
+      "description": "A compact bedside lamp with a modern design, providing soft and adjustable lighting for any bedroom.",
+      "rating": 4.5,
+      "isNew": false,
+      "price": 35000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+6.png",
+      "category": "Lighting",
+      "tags": [
+        "Bedside Lamp",
+        "Modern",
+        "Soft Lighting",
+        "Adjustable"
+      ]
+    },
+    {
+      "id": "31",
+      "name": "Cairo Dining Bench",
+      "description": "A sturdy dining bench with a wooden seat and a sleek metal frame, perfect for modern dining spaces.",
+      "rating": 4.3,
+      "isNew": false,
+      "price": 85000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+7.png",
+      "category": "Seating",
+      "tags": [
+        "Dining Bench",
+        "Wooden",
+        "Metal",
+        "Modern"
+      ]
+    },
+    {
+      "id": "32",
+      "name": "Beijing TV Cabinet",
+      "description": "A stylish TV cabinet with sliding doors and plenty of storage for media equipment and accessories.",
+      "rating": 4.6,
+      "isNew": false,
+      "price": 130000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+8.png",
+      "category": "Storage",
+      "tags": [
+        "TV Cabinet",
+        "Sliding Doors",
+        "Media Storage",
+        "Stylish"
+      ]
+    },
+    {
+      "id": "33",
+      "name": "New York Accent Chair",
+      "description": "A chic accent chair with a bold design and comfortable padding, perfect for adding a pop of color to any room.",
+      "rating": 4.5,
+      "isNew": false,
+      "price": 70000,
+      "discount": 0.41,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+1.png",
+      "category": "Chairs",
+      "tags": [
+        "Accent Chair",
+        "Bold Design",
+        "Comfortable",
+        "Colorful"
+      ]
+    },
+    {
+      "id": "34",
+      "name": "San Francisco Nightstand",
+      "description": "A contemporary nightstand with a drawer and open shelf, offering practical storage for bedside essentials.",
+      "rating": 4.4,
+      "isNew": false,
+      "price": 55000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+2.png",
+      "category": "Tables",
+      "tags": [
+        "Nightstand",
+        "Contemporary",
+        "Drawer",
+        "Storage"
+      ]
+    },
+    {
+      "id": "35",
+      "name": "Munich Console Table",
+      "description": "A sleek console table with a wooden top and a minimalist metal frame, ideal for entryways and living rooms.",
+      "rating": 4.6,
+      "isNew": false,
+      "price": 95000,
+      "discount": 0.48,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+3.png",
+      "category": "Tables",
+      "tags": [
+        "Console Table",
+        "Minimalist",
+        "Wooden Top",
+        "Entryway"
+      ]
+    },
+    {
+      "id": "36",
+      "name": "Rio de Janeiro Hammock Chair",
+      "description": "A cozy hammock chair with a sturdy frame and comfortable fabric, perfect for indoor and outdoor relaxation.",
+      "rating": 4.7,
+      "isNew": false,
+      "price": 70000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+4.png",
+      "category": "Chairs",
+      "tags": [
+        "Hammock Chair",
+        "Cozy",
+        "Indoor/Outdoor",
+        "Relaxation"
+      ]
+    },
+    {
+      "id": "37",
+      "name": "Cape Town Coffee Table",
+      "description": "A rustic coffee table with a reclaimed wood top and metal legs, bringing a touch of nature into your home.",
+      "rating": 4.6,
+      "isNew": false,
+      "price": 90000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+5.png",
+      "category": "Tables",
+      "tags": [
+        "Coffee Table",
+        "Rustic",
+        "Reclaimed Wood",
+        "Nature"
+      ]
+    },
+    {
+      "id": "38",
+      "name": "Buenos Aires Daybed",
+      "description": "A versatile daybed with a plush mattress and elegant frame, perfect for lounging or as an extra sleeping space.",
+      "rating": 4.5,
+      "isNew": false,
+      "price": 180000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+6.png",
+      "category": "Beds",
+      "tags": [
+        "Daybed",
+        "Versatile",
+        "Plush",
+        "Lounging"
+      ]
+    },
+    {
+      "id": "39",
+      "name": "Moscow Vanity Table",
+      "description": "A sophisticated vanity table with a large mirror and multiple drawers, ideal for organizing makeup and accessories.",
+      "rating": 4.8,
+      "isNew": false,
+      "price": 150000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+7.png",
+      "category": "Tables",
+      "tags": [
+        "Vanity Table",
+        "Mirror",
+        "Sophisticated",
+        "Makeup Storage"
+      ]
+    },
+    {
+      "id": "40",
+      "name": "Kuala Lumpur Dining Table",
+      "description": "A round dining table with a glass top and a modern base, perfect for intimate gatherings and dinner parties.",
+      "rating": 4.6,
+      "isNew": false,
+      "price": 220000,
+      "discount": 0.71,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+8.png",
+      "category": "Tables",
+      "tags": [
+        "Dining Table",
+        "Round",
+        "Glass Top",
+        "Gatherings"
+      ]
+    },
+    {
+      "id": "41",
+      "name": "Vancouver Recliner",
+      "description": "A luxurious recliner with soft leather upholstery and adjustable reclining positions, perfect for ultimate relaxation.",
+      "rating": 4.7,
+      "isNew": false,
+      "price": 210000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+1.png",
+      "category": "Chairs",
+      "tags": [
+        "Recliner",
+        "Leather",
+        "Comfort",
+        "Adjustable"
+      ]
+    },
+    {
+      "id": "42",
+      "name": "Melbourne Dining Chair",
+      "description": "A contemporary dining chair with a padded seat and a sleek metal frame, ideal for modern dining spaces.",
+      "rating": 4.4,
+      "isNew": true,
+      "price": 55000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+2.png",
+      "category": "Chairs",
+      "tags": [
+        "Dining Chair",
+        "Padded",
+        "Metal Frame",
+        "Modern"
+      ]
+    },
+    {
+      "id": "43",
+      "name": "Helsinki Sideboard",
+      "description": "A sleek sideboard with a minimalist design and ample storage, perfect for organizing dining room essentials.",
+      "rating": 4.6,
+      "isNew": false,
+      "price": 160000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+3.png",
+      "category": "Storage",
+      "tags": [
+        "Sideboard",
+        "Minimalist",
+        "Storage",
+        "Dining Room"
+      ]
+    },
+    {
+      "id": "44",
+      "name": "Jakarta Coffee Table",
+      "description": "A rustic coffee table with a solid wood top and sturdy metal legs, adding a touch of industrial charm to your living room.",
+      "rating": 4.5,
+      "isNew": false,
+      "price": 90000,
+      "discount": 0.79,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+4.png",
+      "category": "Tables",
+      "tags": [
+        "Coffee Table",
+        "Rustic",
+        "Wood",
+        "Industrial"
+      ]
+    },
+    {
+      "id": "45",
+      "name": "Montreal Sofa Bed",
+      "description": "A practical sofa bed with a comfortable mattress and a modern design, perfect for guest rooms and small spaces.",
+      "rating": 4.6,
+      "isNew": false,
+      "price": 310000,
+      "discount": 0.14,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+5.png",
+      "category": "Sofas",
+      "tags": [
+        "Sofa Bed",
+        "Comfortable",
+        "Modern",
+        "Guest Room"
+      ]
+    },
+    {
+      "id": "46",
+      "name": "Warsaw Bookshelf",
+      "description": "A tall bookshelf with adjustable shelves and a sturdy frame, ideal for displaying books and decor items.",
+      "rating": 4.7,
+      "isNew": true,
+      "price": 105000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+6.png",
+      "category": "Storage",
+      "tags": [
+        "Bookshelf",
+        "Adjustable Shelves",
+        "Tall",
+        "Display"
+      ]
+    },
+    {
+      "id": "47",
+      "name": "Osaka Floor Lamp",
+      "description": "A modern floor lamp with a slim profile and adjustable brightness, providing ambient lighting for any room.",
+      "rating": 4.4,
+      "isNew": false,
+      "price": 48000,
+      "discount": 0.31,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+7.png",
+      "category": "Lighting",
+      "tags": [
+        "Floor Lamp",
+        "Slim",
+        "Adjustable Brightness",
+        "Ambient"
+      ]
+    },
+    {
+      "id": "48",
+      "name": "Brussels Armchair",
+      "description": "A cozy armchair with plush cushioning and a classic design, perfect for adding comfort and style to any room.",
+      "rating": 4.5,
+      "isNew": false,
+      "price": 120000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+8.png",
+      "category": "Chairs",
+      "tags": [
+        "Armchair",
+        "Cozy",
+        "Plush",
+        "Classic Design"
+      ]
+    },
+    {
+      "id": "49",
+      "name": "Lisbon Console Table",
+      "description": "A modern console table with a glass top and metal legs, perfect for entryways and living spaces.",
+      "rating": 4.6,
+      "isNew": true,
+      "price": 85000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+1.png",
+      "category": "Tables",
+      "tags": [
+        "Console Table",
+        "Glass Top",
+        "Metal Legs",
+        "Modern"
+      ]
+    },
+    {
+      "id": "50",
+      "name": "Kyiv Dining Set",
+      "description": "A contemporary dining set with a round table and four upholstered chairs, offering comfort and style for family meals.",
+      "rating": 4.8,
+      "isNew": true,
+      "price": 280000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+2.png",
+      "category": "Sets",
+      "tags": [
+        "Dining Set",
+        "Round Table",
+        "Upholstered Chairs",
+        "Family Meals"
+      ]
+    },
+    {
+      "id": "51",
+      "name": "Seoul Bookshelf",
+      "description": "A stylish bookshelf with a geometric design and ample storage space, perfect for organizing books and displaying decor.",
+      "rating": 4.7,
+      "isNew": false,
+      "price": 115000,
+      "discount": 0.53,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+3.png",
+      "category": "Storage",
+      "tags": [
+        "Bookshelf",
+        "Geometric",
+        "Stylish",
+        "Storage"
+      ]
+    },
+    {
+      "id": "52",
+      "name": "Rio End Table",
+      "description": "A chic end table with a round marble top and gold-finished legs, adding a touch of luxury to any room.",
+      "rating": 4.5,
+      "isNew": false,
+      "price": 65000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+4.png",
+      "category": "Tables",
+      "tags": [
+        "End Table",
+        "Marble Top",
+        "Gold Legs",
+        "Luxury"
+      ]
+    },
+    {
+      "id": "53",
+      "name": "Hanoi TV Unit",
+      "description": "A compact TV unit with a clean design and open shelving, perfect for small living spaces and minimalist setups.",
+      "rating": 4.3,
+      "isNew": false,
+      "price": 80000,
+      "discount": 0.68,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+5.png",
+      "category": "Storage",
+      "tags": [
+        "TV Unit",
+        "Compact",
+        "Clean Design",
+        "Minimalist"
+      ]
+    },
+    {
+      "id": "54",
+      "name": "Dubai Lounge Chair",
+      "description": "A luxurious lounge chair with a velvet finish and sleek design, perfect for adding elegance to any living room.",
+      "rating": 4.7,
+      "isNew": false,
+      "price": 130000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+6.png",
+      "category": "Chairs",
+      "tags": [
+        "Lounge Chair",
+        "Velvet",
+        "Sleek Design",
+        "Elegance"
+      ]
+    },
+    {
+      "id": "55",
+      "name": "Berlin Coffee Table",
+      "description": "A contemporary coffee table with a tempered glass top and metal frame, ideal for modern living rooms.",
+      "rating": 4.6,
+      "isNew": false,
+      "price": 95000,
+      "discount": 0.56,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+7.png",
+      "category": "Tables",
+      "tags": [
+        "Coffee Table",
+        "Tempered Glass",
+        "Metal Frame",
+        "Contemporary"
+      ]
+    },
+    {
+      "id": "56",
+      "name": "Cape Town Wardrobe",
+      "description": "A rustic wardrobe with sliding barn doors and ample storage, adding a touch of farmhouse charm to your bedroom.",
+      "rating": 4.8,
+      "isNew": false,
+      "price": 270000,
+      "discount": 0.73,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+8.png",
+      "category": "Storage",
+      "tags": [
+        "Wardrobe",
+        "Sliding Doors",
+        "Farmhouse",
+        "Bedroom"
+      ]
+    },
+    {
+      "id": "57",
+      "name": "Madrid Bar Cart",
+      "description": "A stylish bar cart with glass shelves and a metal frame, perfect for entertaining guests and showcasing your favorite drinks.",
+      "rating": 4.6,
+      "isNew": true,
+      "price": 75000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+1.png",
+      "category": "Storage",
+      "tags": [
+        "Bar Cart",
+        "Glass Shelves",
+        "Metal Frame",
+        "Entertaining"
+      ]
+    },
+    {
+      "id": "58",
+      "name": "Sydney Desk",
+      "description": "A modern desk with a spacious surface and built-in storage, ideal for home offices and study areas.",
+      "rating": 4.5,
+      "isNew": false,
+      "price": 190000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+2.png",
+      "category": "Desks",
+      "tags": [
+        "Desk",
+        "Spacious",
+        "Built-in Storage",
+        "Home Office"
+      ]
+    },
+    {
+      "id": "59",
+      "name": "Athens Ottoman",
+      "description": "A versatile ottoman with a soft fabric cover and wooden legs, perfect for extra seating or a footrest.",
+      "rating": 4.4,
+      "isNew": false,
+      "price": 45000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+3.png",
+      "category": "Chairs",
+      "tags": [
+        "Ottoman",
+        "Versatile",
+        "Soft Fabric",
+        "Footrest"
+      ]
+    },
+    {
+      "id": "60",
+      "name": "Geneva Accent Chair",
+      "description": "A comfortable accent chair with a modern design and plush cushioning, adding style and comfort to any space.",
+      "rating": 4.6,
+      "isNew": false,
+      "price": 70000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+4.png",
+      "category": "Chairs",
+      "tags": [
+        "Accent Chair",
+        "Comfortable",
+        "Modern",
+        "Plush"
+      ]
+    },
+    {
+      "id": "61",
+      "name": "Oslo Coffee Table",
+      "description": "A contemporary coffee table with a round wooden top and sleek metal legs, perfect for modern living rooms.",
+      "rating": 4.6,
+      "isNew": false,
+      "price": 85000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+5.png",
+      "category": "Tables",
+      "tags": [
+        "Coffee Table",
+        "Round",
+        "Wooden Top",
+        "Modern"
+      ]
+    },
+    {
+      "id": "62",
+      "name": "Bangkok Armchair",
+      "description": "A stylish armchair with a curved backrest and comfortable seat, ideal for adding a touch of elegance to any room.",
+      "rating": 4.5,
+      "isNew": false,
+      "price": 110000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+6.png",
+      "category": "Chairs",
+      "tags": [
+        "Armchair",
+        "Curved Backrest",
+        "Comfortable",
+        "Elegant"
+      ]
+    },
+    {
+      "id": "63",
+      "name": "Istanbul Bookshelf",
+      "description": "A tall bookshelf with a traditional design and plenty of storage space for books and decorative items.",
+      "rating": 4.7,
+      "isNew": false,
+      "price": 100000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+7.png",
+      "category": "Storage",
+      "tags": [
+        "Bookshelf",
+        "Traditional",
+        "Tall",
+        "Storage"
+      ]
+    },
+    {
+      "id": "64",
+      "name": "Havana Dining Table",
+      "description": "A rustic dining table with a wooden top and sturdy legs, perfect for family dinners and gatherings.",
+      "rating": 4.6,
+      "isNew": false,
+      "price": 200000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+8.png",
+      "category": "Tables",
+      "tags": [
+        "Dining Table",
+        "Rustic",
+        "Wooden",
+        "Family"
+      ]
+    },
+    {
+      "id": "65",
+      "name": "Venice Floor Lamp",
+      "description": "An elegant floor lamp with a crystal base and a fabric shade, adding a touch of luxury to any room.",
+      "rating": 4.8,
+      "isNew": false,
+      "price": 55000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+1.png",
+      "category": "Lighting",
+      "tags": [
+        "Floor Lamp",
+        "Crystal Base",
+        "Luxury",
+        "Fabric Shade"
+      ]
+    },
+    {
+      "id": "66",
+      "name": "Lisbon Ottoman",
+      "description": "A versatile ottoman with a removable lid for storage and a comfortable seat, perfect for any living space.",
+      "rating": 4.4,
+      "isNew": false,
+      "price": 65000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+2.png",
+      "category": "Chairs",
+      "tags": [
+        "Ottoman",
+        "Storage",
+        "Versatile",
+        "Comfortable"
+      ]
+    },
+    {
+      "id": "67",
+      "name": "Milan Dining Set",
+      "description": "A stylish dining set with a rectangular table and six upholstered chairs, perfect for formal dining rooms.",
+      "rating": 4.7,
+      "isNew": false,
+      "price": 320000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+3.png",
+      "category": "Sets",
+      "tags": [
+        "Dining Set",
+        "Rectangular Table",
+        "Upholstered Chairs",
+        "Formal"
+      ]
+    },
+    {
+      "id": "68",
+      "name": "Toronto Bed Frame",
+      "description": "A sturdy bed frame with a modern design and a high headboard, providing a sleek look for any bedroom.",
+      "rating": 4.6,
+      "isNew": false,
+      "price": 180000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+4.png",
+      "category": "Beds",
+      "tags": [
+        "Bed Frame",
+        "Sturdy",
+        "Modern",
+        "Headboard"
+      ]
+    },
+    {
+      "id": "69",
+      "name": "Munich Side Table",
+      "description": "A chic side table with a glass top and metal frame, adding a contemporary touch to any living space.",
+      "rating": 4.5,
+      "isNew": false,
+      "price": 50000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+5.png",
+      "category": "Tables",
+      "tags": [
+        "Side Table",
+        "Glass Top",
+        "Metal Frame",
+        "Contemporary"
+      ]
+    },
+    {
+      "id": "70",
+      "name": "Vienna Lounge Chair",
+      "description": "A luxurious lounge chair with a velvet cover and ergonomic design, perfect for relaxation and comfort.",
+      "rating": 4.8,
+      "isNew": false,
+      "price": 135000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+6.png",
+      "category": "Chairs",
+      "tags": [
+        "Lounge Chair",
+        "Velvet",
+        "Ergonomic",
+        "Comfort"
+      ]
+    },
+    {
+      "id": "71",
+      "name": "Lima Console Table",
+      "description": "A modern console table with a wooden top and a sleek metal base, ideal for hallways and entryways.",
+      "rating": 4.6,
+      "isNew": false,
+      "price": 78000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+7.png",
+      "category": "Tables",
+      "tags": [
+        "Console Table",
+        "Wooden Top",
+        "Sleek",
+        "Entryway"
+      ]
+    },
+    {
+      "id": "72",
+      "name": "Hong Kong Chest of Drawers",
+      "description": "A spacious chest of drawers with a minimalist design, perfect for storing clothes and keeping your bedroom organized.",
+      "rating": 4.7,
+      "isNew": false,
+      "price": 160000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+8.png",
+      "category": "Storage",
+      "tags": [
+        "Chest of Drawers",
+        "Spacious",
+        "Minimalist",
+        "Storage"
+      ]
+    },
+    {
+      "id": "73",
+      "name": "Paris Bar Stool",
+      "description": "A contemporary bar stool with a cushioned seat and a sleek metal frame, perfect for kitchen islands and bars.",
+      "rating": 4.5,
+      "isNew": false,
+      "price": 70000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+1.png",
+      "category": "Chairs",
+      "tags": [
+        "Bar Stool",
+        "Cushioned",
+        "Metal Frame",
+        "Kitchen"
+      ]
+    },
+    {
+      "id": "74",
+      "name": "Chicago Dining Table",
+      "description": "A solid wood dining table with a classic design and a large surface area, ideal for family dinners and gatherings.",
+      "rating": 4.8,
+      "isNew": false,
+      "price": 250000,
+      "discount": 0.14,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+2.png",
+      "category": "Tables",
+      "tags": [
+        "Dining Table",
+        "Wooden",
+        "Classic",
+        "Family"
+      ]
+    },
+    {
+      "id": "75",
+      "name": "Rome Sofa",
+      "description": "A comfortable sofa with a sleek design and plush cushions, providing a cozy spot for relaxation in any living room.",
+      "rating": 4.6,
+      "isNew": false,
+      "price": 280000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+3.png",
+      "category": "Sofas",
+      "tags": [
+        "Sofa",
+        "Comfortable",
+        "Sleek",
+        "Plush"
+      ]
+    },
+    {
+      "id": "76",
+      "name": "Bangkok Wardrobe",
+      "description": "A spacious wardrobe with sliding doors and multiple compartments, perfect for organizing clothes and accessories.",
+      "rating": 4.7,
+      "isNew": false,
+      "price": 310000,
+      "discount": 0.39,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+4.png",
+      "category": "Storage",
+      "tags": [
+        "Wardrobe",
+        "Sliding Doors",
+        "Spacious",
+        "Organizing"
+      ]
+    },
+    {
+      "id": "77",
+      "name": "Seoul Sofa",
+      "description": "A modern sofa with clean lines and comfortable seating, perfect for contemporary living rooms.",
+      "rating": 4.6,
+      "isNew": false,
+      "price": 260000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+5.png",
+      "category": "Sofas",
+      "tags": [
+        "Sofa",
+        "Modern",
+        "Comfortable",
+        "Living Room"
+      ]
+    },
+    {
+      "id": "78",
+      "name": "Shanghai Coffee Table",
+      "description": "A contemporary coffee table with a glass top and wooden base, providing a stylish focal point for any living room.",
+      "rating": 4.5,
+      "isNew": false,
+      "price": 95000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+6.png",
+      "category": "Tables",
+      "tags": [
+        "Coffee Table",
+        "Glass Top",
+        "Wooden Base",
+        "Contemporary"
+      ]
+    },
+    {
+      "id": "79",
+      "name": "Cape Town Bed",
+      "description": "A rustic bed frame with a wooden headboard and sturdy construction, adding a touch of farmhouse charm to your bedroom.",
+      "rating": 4.8,
+      "isNew": false,
+      "price": 220000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+7.png",
+      "category": "Beds",
+      "tags": [
+        "Bed",
+        "Rustic",
+        "Wooden",
+        "Farmhouse"
+      ]
+    },
+    {
+      "id": "80",
+      "name": "Zurich Dining Chair",
+      "description": "A comfortable dining chair with a padded seat and a wooden frame, perfect for family meals and gatherings.",
+      "rating": 4.7,
+      "isNew": false,
+      "price": 60000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+8.png",
+      "category": "Chairs",
+      "tags": [
+        "Dining Chair",
+        "Padded",
+        "Wooden Frame",
+        "Family"
+      ]
+    },
+    {
+      "id": "81",
+      "name": "Berlin Desk",
+      "description": "A sleek desk with a spacious surface and built-in drawers, ideal for home offices and study spaces.",
+      "rating": 4.6,
+      "isNew": false,
+      "price": 170000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+1.png",
+      "category": "Desks",
+      "tags": [
+        "Desk",
+        "Sleek",
+        "Spacious",
+        "Home Office"
+      ]
+    },
+    {
+      "id": "82",
+      "name": "Dublin Sofa",
+      "description": "A contemporary sofa with a minimalist design and plush cushions, perfect for modern living rooms.",
+      "rating": 4.7,
+      "isNew": false,
+      "price": 270000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+2.png",
+      "category": "Sofas",
+      "tags": [
+        "Sofa",
+        "Contemporary",
+        "Minimalist",
+        "Plush"
+      ]
+    },
+    {
+      "id": "83",
+      "name": "Nairobi Coffee Table",
+      "description": "A rustic coffee table with a solid wooden top and metal frame, adding a touch of industrial charm to your living room.",
+      "rating": 4.6,
+      "isNew": false,
+      "price": 95000,
+      "discount": 0.34,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+3.png",
+      "category": "Tables",
+      "tags": [
+        "Coffee Table",
+        "Rustic",
+        "Wooden",
+        "Industrial"
+      ]
+    },
+    {
+      "id": "84",
+      "name": "Cairo Bookshelf",
+      "description": "A tall bookshelf with a traditional design and ample storage space, perfect for displaying books and decor.",
+      "rating": 4.7,
+      "isNew": false,
+      "price": 110000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+4.png",
+      "category": "Storage",
+      "tags": [
+        "Bookshelf",
+        "Traditional",
+        "Tall",
+        "Storage"
+      ]
+    },
+    {
+      "id": "85",
+      "name": "Tokyo Dining Table",
+      "description": "A modern dining table with a glass top and sleek metal legs, perfect for contemporary dining rooms.",
+      "rating": 4.6,
+      "isNew": false,
+      "price": 220000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+5.png",
+      "category": "Tables",
+      "tags": [
+        "Dining Table",
+        "Glass Top",
+        "Sleek",
+        "Modern"
+      ]
+    },
+    {
+      "id": "86",
+      "name": "Prague Armchair",
+      "description": "A stylish armchair with a velvet finish and comfortable seating, adding a touch of elegance to any room.",
+      "rating": 4.7,
+      "isNew": true,
+      "price": 120000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+6.png",
+      "category": "Chairs",
+      "tags": [
+        "Armchair",
+        "Velvet",
+        "Stylish",
+        "Comfortable"
+      ]
+    },
+    {
+      "id": "87",
+      "name": "Sydney Bed",
+      "description": "A sturdy bed frame with a wooden headboard and clean lines, perfect for modern and minimalist bedrooms.",
+      "rating": 4.8,
+      "isNew": true,
+      "price": 230000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+7.png",
+      "category": "Beds",
+      "tags": [
+        "Bed",
+        "Sturdy",
+        "Wooden Headboard",
+        "Modern"
+      ]
+    },
+    {
+      "id": "88",
+      "name": "Los Angeles Sofa",
+      "description": "A comfortable sofa with a sleek design and plush cushions, ideal for contemporary living rooms.",
+      "rating": 4.6,
+      "isNew": false,
+      "price": 280000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+8.png",
+      "category": "Sofas",
+      "tags": [
+        "Sofa",
+        "Comfortable",
+        "Sleek Design",
+        "Plush"
+      ]
+    },
+    {
+      "id": "89",
+      "name": "Moscow Dining Chair",
+      "description": "A classic dining chair with a cushioned seat and wooden frame, perfect for traditional dining spaces.",
+      "rating": 4.5,
+      "isNew": false,
+      "price": 58000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+1.png",
+      "category": "Chairs",
+      "tags": [
+        "Dining Chair",
+        "Cushioned",
+        "Wooden Frame",
+        "Classic"
+      ]
+    },
+    {
+      "id": "90",
+      "name": "New York Side Table",
+      "description": "A chic side table with a marble top and metal base, adding a touch of luxury to any living room or bedroom.",
+      "rating": 4.7,
+      "isNew": false,
+      "price": 62000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+2.png",
+      "category": "Tables",
+      "tags": [
+        "Side Table",
+        "Marble Top",
+        "Luxury",
+        "Chic"
+      ]
+    },
+    {
+      "id": "91",
+      "name": "Vienna Sofa",
+      "description": "A plush sofa with a modern design and comfortable seating, perfect for relaxing in any living room.",
+      "rating": 4.8,
+      "isNew": false,
+      "price": 300000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+3.png",
+      "category": "Sofas",
+      "tags": [
+        "Sofa",
+        "Plush",
+        "Modern",
+        "Comfortable"
+      ]
+    },
+    {
+      "id": "92",
+      "name": "Buenos Aires Bed",
+      "description": "A solid wood bed frame with a rustic design, adding a touch of farmhouse charm to your bedroom.",
+      "rating": 4.7,
+      "isNew": false,
+      "price": 210000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+4.png",
+      "category": "Beds",
+      "tags": [
+        "Bed",
+        "Wooden",
+        "Rustic",
+        "Farmhouse"
+      ]
+    },
+    {
+      "id": "93",
+      "name": "Lisbon Coffee Table",
+      "description": "A contemporary coffee table with a glass top and metal frame, perfect for modern living rooms.",
+      "rating": 4.6,
+      "isNew": false,
+      "price": 87000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+5.png",
+      "category": "Tables",
+      "tags": [
+        "Coffee Table",
+        "Glass Top",
+        "Metal Frame",
+        "Contemporary"
+      ]
+    },
+    {
+      "id": "94",
+      "name": "Mexico City Wardrobe",
+      "description": "A spacious wardrobe with sliding doors and a modern design, providing ample storage for your clothes and accessories.",
+      "rating": 4.8,
+      "isNew": false,
+      "price": 310000,
+      "discount": 0.66,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+6.png",
+      "category": "Storage",
+      "tags": [
+        "Wardrobe",
+        "Sliding Doors",
+        "Spacious",
+        "Modern"
+      ]
+    },
+    {
+      "id": "95",
+      "name": "Athens Dining Set",
+      "description": "A stylish dining set with a round table and four cushioned chairs, perfect for small dining spaces.",
+      "rating": 4.7,
+      "isNew": false,
+      "price": 250000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+7.png",
+      "category": "Sets",
+      "tags": [
+        "Dining Set",
+        "Round Table",
+        "Cushioned Chairs",
+        "Stylish"
+      ]
+    },
+    {
+      "id": "96",
+      "name": "Hong Kong Floor Lamp",
+      "description": "A modern floor lamp with an adjustable arm and a sleek design, providing perfect lighting for any room.",
+      "rating": 4.5,
+      "isNew": false,
+      "price": 54000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+8.png",
+      "category": "Lighting",
+      "tags": [
+        "Floor Lamp",
+        "Adjustable Arm",
+        "Sleek",
+        "Modern"
+      ]
+    },
+    {
+      "id": "97",
+      "name": "Tokyo Console Table",
+      "description": "A sleek console table with a glass top and metal frame, ideal for hallways and entryways.",
+      "rating": 4.6,
+      "isNew": false,
+      "price": 86000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+1.png",
+      "category": "Tables",
+      "tags": [
+        "Console Table",
+        "Glass Top",
+        "Metal Frame",
+        "Sleek"
+      ]
+    },
+    {
+      "id": "98",
+      "name": "Seoul Dining Chair",
+      "description": "A comfortable dining chair with a padded seat and wooden legs, perfect for modern dining rooms.",
+      "rating": 4.7,
+      "isNew": false,
+      "price": 62000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+2.png",
+      "category": "Chairs",
+      "tags": [
+        "Dining Chair",
+        "Padded",
+        "Wooden Legs",
+        "Modern"
+      ]
+    },
+    {
+      "id": "99",
+      "name": "Rio Lounge Chair",
+      "description": "A chic lounge chair with a velvet finish and ergonomic design, adding comfort and style to any room.",
+      "rating": 4.8,
+      "isNew": false,
+      "price": 140000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+3.png",
+      "category": "Chairs",
+      "tags": [
+        "Lounge Chair",
+        "Velvet",
+        "Ergonomic",
+        "Chic"
+      ]
+    },
+    {
+      "id": "100",
+      "name": "Zurich Wardrobe",
+      "description": "A tall wardrobe with a sleek design and sliding doors, offering ample storage space for your clothes and accessories.",
+      "rating": 4.7,
+      "isNew": true,
+      "price": 290000,
+      "discount": 0.39,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+4.png",
+      "category": "Storage",
+      "tags": [
+        "Wardrobe",
+        "Tall",
+        "Sliding Doors",
+        "Sleek"
+      ]
+    },
+    {
+      "id": "101",
+      "name": "Madrid Coffee Table",
+      "description": "A modern coffee table with a glass top and wooden base, ideal for contemporary living rooms.",
+      "rating": 4.6,
+      "isNew": false,
+      "price": 90000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+5.png",
+      "category": "Tables",
+      "tags": [
+        "Coffee Table",
+        "Glass Top",
+        "Wooden Base",
+        "Modern"
+      ]
+    },
+    {
+      "id": "102",
+      "name": "Montreal Sofa",
+      "description": "A comfortable sofa with an elegant design and soft cushions, perfect for relaxing in any living room.",
+      "rating": 4.7,
+      "isNew": false,
+      "price": 275000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+6.png",
+      "category": "Sofas",
+      "tags": [
+        "Sofa",
+        "Comfortable",
+        "Elegant",
+        "Soft Cushions"
+      ]
+    },
+    {
+      "id": "103",
+      "name": "Vienna Desk",
+      "description": "A modern office desk with a glass top and built-in drawers, ideal for contemporary workspaces.",
+      "rating": 4.5,
+      "isNew": false,
+      "price": 160000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+7.png",
+      "category": "Desks",
+      "tags": [
+        "Desk",
+        "Modern",
+        "Glass Top",
+        "Built-in Drawers"
+      ]
+    },
+    {
+      "id": "104",
+      "name": "Dubai Side Table",
+      "description": "An elegant side table with a marble top and metal frame, adding a touch of luxury to any room.",
+      "rating": 4.8,
+      "isNew": false,
+      "price": 68000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+8.png",
+      "category": "Tables",
+      "tags": [
+        "Side Table",
+        "Marble Top",
+        "Metal Frame",
+        "Luxury"
+      ]
+    },
+    {
+      "id": "105",
+      "name": "Beijing Armchair",
+      "description": "A stylish armchair with an ergonomic design and velvet finish, perfect for any elegant space.",
+      "rating": 4.6,
+      "isNew": false,
+      "price": 120000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+1.png",
+      "category": "Chairs",
+      "tags": [
+        "Armchair",
+        "Stylish",
+        "Ergonomic",
+        "Velvet"
+      ]
+    },
+    {
+      "id": "106",
+      "name": "Helsinki Dining Table",
+      "description": "A sturdy dining table with a wooden top and metal legs, perfect for family meals.",
+      "rating": 4.7,
+      "isNew": false,
+      "price": 215000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+2.png",
+      "category": "Tables",
+      "tags": [
+        "Dining Table",
+        "Robust",
+        "Wooden Top",
+        "Metal Legs"
+      ]
+    },
+    {
+      "id": "107",
+      "name": "Toronto Bookshelf",
+      "description": "A spacious bookshelf with a modern design and plenty of space for books and decorative items.",
+      "rating": 4.7,
+      "isNew": false,
+      "price": 105000,
+      "discount": 0.24,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+3.png",
+      "category": "Storage",
+      "tags": [
+        "Bookshelf",
+        "Spacious",
+        "Modern",
+        "Storage"
+      ]
+    },
+    {
+      "id": "108",
+      "name": "Mumbai Wardrobe",
+      "description": "A spacious wardrobe with sliding doors and contemporary design, perfect for organizing clothes and accessories.",
+      "rating": 4.6,
+      "isNew": false,
+      "price": 320000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+4.png",
+      "category": "Storage",
+      "tags": [
+        "Wardrobe",
+        "Spacious",
+        "Sliding Doors",
+        "Contemporary"
+      ]
+    },
+    {
+      "id": "109",
+      "name": "Jakarta Lounge Chair",
+      "description": "A comfortable lounge chair with an ergonomic design and leather finish, ideal for relaxation.",
+      "rating": 4.8,
+      "isNew": true,
+      "price": 145000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+5.png",
+      "category": "Chairs",
+      "tags": [
+        "Lounge Chair",
+        "Comfortable",
+        "Ergonomic",
+        "Leather"
+      ]
+    },
+    {
+      "id": "110",
+      "name": "Romeo Dining Chair",
+      "description": "A classic dining chair with an upholstered seat and wooden frame, perfect for traditional dining rooms.",
+      "rating": 4.7,
+      "isNew": true,
+      "price": 62000,
+      "discount": 0.46,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+6.png",
+      "category": "Chairs",
+      "tags": [
+        "Dining Chair",
+        "Classic",
+        "Upholstered Seat",
+        "Wooden Frame"
+      ]
+    },
+    {
+      "id": "111",
+      "name": "Florence Floor Lamp",
+      "description": "An elegant floor lamp with a crystal base and fabric shade, adding a touch of luxury to any room.",
+      "rating": 4.8,
+      "isNew": true,
+      "price": 58000,
+      "discount": 0.05,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+7.png",
+      "category": "Lighting",
+      "tags": [
+        "Floor Lamp",
+        "Crystal Base",
+        "Luxury",
+        "Fabric Shade"
+      ]
+    },
+    {
+      "id": "112",
+      "name": "Berlin Sofa",
+      "description": "A modern sofa with a minimalist design and comfortable cushions, perfect for contemporary living rooms.",
+      "rating": 4.6,
+      "isNew": false,
+      "price": 290000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+8.png",
+      "category": "Sofas",
+      "tags": [
+        "Sofa",
+        "Modern",
+        "Minimalist",
+        "Comfortable"
+      ]
+    },
+    {
+      "id": "113",
+      "name": "Osaka Bed",
+      "description": "A sturdy bed frame with a wooden headboard and clean design, perfect for modern bedrooms.",
+      "rating": 4.7,
+      "isNew": false,
+      "price": 240000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+1.png",
+      "category": "Beds",
+      "tags": [
+        "Bed",
+        "Sturdy",
+        "Wooden Headboard",
+        "Modern"
+      ]
+    },
+    {
+      "id": "114",
+      "name": "Santiago Dining Set",
+      "description": "An elegant dining set with a rectangular table and six upholstered chairs, ideal for formal meals.",
+      "rating": 4.6,
+      "isNew": true,
+      "price": 335000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+2.png",
+      "category": "Sets",
+      "tags": [
+        "Dining Set",
+        "Rectangular Table",
+        "Upholstered Chairs",
+        "Formal"
+      ]
+    },
+    {
+      "id": "115",
+      "name": "Lima Chest of Drawers",
+      "description": "A spacious dresser with a minimalist design, perfect for storing clothes and organizing your room.",
+      "rating": 4.5,
+      "isNew": false,
+      "price": 130000,
+      "discount": 0.53,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+3.png",
+      "category": "Storage",
+      "tags": [
+        "Chest of Drawers",
+        "Spacious",
+        "Minimalist",
+        "Storage"
+      ]
+    },
+    {
+      "id": "116",
+      "name": "Bogotá Coffee Table",
+      "description": "A contemporary coffee table with a glass top and metal base, providing an elegant focal point for any living room.",
+      "rating": 4.6,
+      "isNew": false,
+      "price": 87000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+4.png",
+      "category": "Tables",
+      "tags": [
+        "Coffee Table",
+        "Glass Top",
+        "Metal Base",
+        "Contemporary"
+      ]
+    },
+    {
+      "id": "117",
+      "name": "Lisboa Ottoman",
+      "description": "A versatile ottoman with removable lid for storage and comfortable seating, perfect for any living space.",
+      "rating": 4.7,
+      "isNew": false,
+      "price": 68000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+5.png",
+      "category": "Chairs",
+      "tags": [
+        "Ottoman",
+        "Versatile",
+        "Removable Lid",
+        "Storage"
+      ]
+    },
+    {
+      "id": "118",
+      "name": "Zurich Dining Table",
+      "description": "A modern dining table with a glass top and metal legs, ideal for contemporary spaces.",
+      "rating": 4.8,
+      "isNew": false,
+      "price": 230000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+6.png",
+      "category": "Tables",
+      "tags": [
+        "Dining Table",
+        "Glass Top",
+        "Metal Legs",
+        "Modern"
+      ]
+    },
+    {
+      "id": "119",
+      "name": "Istanbul Wardrobe",
+      "description": "A spacious wardrobe with sliding doors and classic design, offering ample storage space.",
+      "rating": 4.7,
+      "isNew": false,
+      "price": 315000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+7.png",
+      "category": "Storage",
+      "tags": [
+        "Wardrobe",
+        "Spacious",
+        "Sliding Doors",
+        "Classic"
+      ]
+    },
+    {
+      "id": "120",
+      "name": "Copenhagen Sofa",
+      "description": "A comfortable sofa with a Scandinavian design and soft cushions, perfect for adding a touch of Nordic style to your space.",
+      "rating": 4.6,
+      "isNew": false,
+      "price": 270000,
+      "discount": 0.6,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+8.png",
+      "category": "Sofas",
+      "tags": [
+        "Sofa",
+        "Comfortable",
+        "Scandinavian Design",
+        "Soft Cushions"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Stockholm Sofa",
+      "description": "A sleek, modern sofa with a minimalist design and comfortable seating, perfect for contemporary living rooms.",
+      "rating": 4.8,
+      "isNew": true,
+      "price": 280000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+1.png",
+      "category": "Sofas",
+      "tags": [
+        "Sofa",
+        "Modern",
+        "Minimalist",
+        "Comfortable"
+      ]
+    },
+    {
+      "id": "122",
+      "name": "Milan Dining Chair",
+      "description": "A stylish dining chair with a padded seat and wooden legs, ideal for adding a touch of elegance to your dining area.",
+      "rating": 4.7,
+      "isNew": false,
+      "price": 75000,
+      "discount": 0.02,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+2.png",
+      "category": "Chairs",
+      "tags": [
+        "Dining Chair",
+        "Stylish",
+        "Padded Seat",
+        "Wooden Legs"
+      ]
+    },
+    {
+      "id": "123",
+      "name": "Oslo Bookshelf",
+      "description": "A tall bookshelf with a sleek, Scandinavian design and multiple shelves for ample storage.",
+      "rating": 4.6,
+      "isNew": false,
+      "price": 120000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+3.png",
+      "category": "Storage",
+      "tags": [
+        "Bookshelf",
+        "Tall",
+        "Scandinavian Design",
+        "Storage"
+      ]
+    },
+    {
+      "id": "124",
+      "name": "Dubai Coffee Table",
+      "description": "A luxurious coffee table with a marble top and gold metal frame, adding a touch of elegance to any living room.",
+      "rating": 4.9,
+      "isNew": false,
+      "price": 115000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+4.png",
+      "category": "Tables",
+      "tags": [
+        "Coffee Table",
+        "Marble Top",
+        "Gold Frame",
+        "Luxurious"
+      ]
+    },
+    {
+      "id": "125",
+      "name": "Sydney Side Table",
+      "description": "A compact side table with a glass top and wooden legs, perfect for modern and minimalist spaces.",
+      "rating": 4.6,
+      "isNew": false,
+      "price": 62000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+5.png",
+      "category": "Tables",
+      "tags": [
+        "Side Table",
+        "Glass Top",
+        "Wooden Legs",
+        "Modern"
+      ]
+    },
+    {
+      "id": "126",
+      "name": "Vienna Armchair",
+      "description": "A comfortable armchair with a plush velvet finish and a contemporary design, ideal for relaxing in style.",
+      "rating": 4.7,
+      "isNew": false,
+      "price": 130000,
+      "discount": 0.39,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+6.png",
+      "category": "Chairs",
+      "tags": [
+        "Armchair",
+        "Comfortable",
+        "Velvet",
+        "Contemporary"
+      ]
+    },
+    {
+      "id": "127",
+      "name": "Cape Town Dining Table",
+      "description": "A spacious dining table with a wooden top and sturdy metal legs, perfect for family gatherings and dinners.",
+      "rating": 4.8,
+      "isNew": false,
+      "price": 210000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+7.png",
+      "category": "Tables",
+      "tags": [
+        "Dining Table",
+        "Spacious",
+        "Wooden Top",
+        "Sturdy"
+      ]
+    },
+    {
+      "id": "128",
+      "name": "Tokyo Wardrobe",
+      "description": "A sleek wardrobe with sliding doors and a modern design, offering ample storage for clothes and accessories.",
+      "rating": 4.7,
+      "isNew": false,
+      "price": 320000,
+      "discount": 0.58,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+8.png",
+      "category": "Storage",
+      "tags": [
+        "Wardrobe",
+        "Sleek",
+        "Sliding Doors",
+        "Modern"
+      ]
+    },
+    {
+      "id": "129",
+      "name": "Miami Sofa",
+      "description": "A chic sofa with a relaxed, coastal vibe and soft cushions, perfect for adding a touch of beachy style to your living room.",
+      "rating": 4.8,
+      "isNew": false,
+      "price": 260000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+1.png",
+      "category": "Sofas",
+      "tags": [
+        "Sofa",
+        "Chic",
+        "Coastal",
+        "Soft Cushions"
+      ]
+    },
+    {
+      "id": "130",
+      "name": "Shanghai Floor Lamp",
+      "description": "A modern floor lamp with an adjustable head and sleek design, providing excellent lighting for reading and ambiance.",
+      "rating": 4.6,
+      "isNew": false,
+      "price": 64000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+2.png",
+      "category": "Lighting",
+      "tags": [
+        "Floor Lamp",
+        "Adjustable Head",
+        "Modern",
+        "Sleek"
+      ]
+    },
+    {
+      "id": "131",
+      "name": "Amsterdam Console Table",
+      "description": "A stylish console table with a glass top and wooden frame, perfect for entryways and hallways.",
+      "rating": 4.7,
+      "isNew": false,
+      "price": 98000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+3.png",
+      "category": "Tables",
+      "tags": [
+        "Console Table",
+        "Stylish",
+        "Glass Top",
+        "Wooden Frame"
+      ]
+    },
+    {
+      "id": "132",
+      "name": "Lisbon Dining Chair",
+      "description": "A modern dining chair with a cushioned seat and sleek metal legs, adding a touch of contemporary style to your dining area.",
+      "rating": 4.8,
+      "isNew": false,
+      "price": 70000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+4.png",
+      "category": "Chairs",
+      "tags": [
+        "Dining Chair",
+        "Modern",
+        "Cushioned Seat",
+        "Sleek"
+      ]
+    },
+    {
+      "id": "133",
+      "name": "Buenos Aires Sofa",
+      "description": "A luxurious sofa with a velvet finish and deep seating, perfect for adding a touch of opulence to any living room.",
+      "rating": 4.9,
+      "isNew": false,
+      "price": 295000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+5.png",
+      "category": "Sofas",
+      "tags": [
+        "Sofa",
+        "Luxurious",
+        "Velvet",
+        "Deep Seating"
+      ]
+    },
+    {
+      "id": "134",
+      "name": "Rio Bed",
+      "description": "A modern bed frame with a simple design and a padded headboard, ideal for minimalist bedrooms.",
+      "rating": 4.7,
+      "isNew": false,
+      "price": 220000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+6.png",
+      "category": "Beds",
+      "tags": [
+        "Bed",
+        "Modern",
+        "Simple Design",
+        "Padded Headboard"
+      ]
+    },
+    {
+      "id": "135",
+      "name": "Paris Bookshelf",
+      "description": "A chic bookshelf with a sleek design and multiple shelves, providing ample space for books and decor.",
+      "rating": 4.8,
+      "isNew": false,
+      "price": 130000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+7.png",
+      "category": "Storage",
+      "tags": [
+        "Bookshelf",
+        "Chic",
+        "Sleek Design",
+        "Storage"
+      ]
+    },
+    {
+      "id": "136",
+      "name": "Seoul Coffee Table",
+      "description": "A contemporary coffee table with a glass top and metal frame, perfect for modern living spaces.",
+      "rating": 4.6,
+      "isNew": false,
+      "price": 95000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+8.png",
+      "category": "Tables",
+      "tags": [
+        "Coffee Table",
+        "Contemporary",
+        "Glass Top",
+        "Metal Frame"
+      ]
+    },
+    {
+      "id": "137",
+      "name": "Athens Armchair",
+      "description": "A classic armchair with a comfortable, padded seat and a timeless design, ideal for any living room or study.",
+      "rating": 4.7,
+      "isNew": false,
+      "price": 115000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+1.png",
+      "category": "Chairs",
+      "tags": [
+        "Armchair",
+        "Classic",
+        "Padded Seat",
+        "Timeless"
+      ]
+    },
+    {
+      "id": "138",
+      "name": "Barcelona Dining Set",
+      "description": "An elegant dining set with a rectangular table and six cushioned chairs, perfect for formal dining occasions.",
+      "rating": 4.8,
+      "isNew": false,
+      "price": 345000,
+      "discount": 0.55,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+2.png",
+      "category": "Sets",
+      "tags": [
+        "Dining Set",
+        "Elegant",
+        "Rectangular Table",
+        "Cushioned Chairs"
+      ]
+    },
+    {
+      "id": "139",
+      "name": "Melbourne Sideboard",
+      "description": "A stylish sideboard with a modern design and ample storage space, perfect for organizing your dining room or living room.",
+      "rating": 4.7,
+      "isNew": false,
+      "price": 190000,
+      "discount": 0.52,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+3.png",
+      "category": "Storage",
+      "tags": [
+        "Sideboard",
+        "Stylish",
+        "Modern Design",
+        "Storage"
+      ]
+    },
+    {
+      "id": "140",
+      "name": "Kuala Lumpur Ottoman",
+      "description": "A versatile ottoman with a removable lid for storage and a comfortable seat, ideal for any living room or bedroom.",
+      "rating": 4.6,
+      "isNew": false,
+      "price": 75000,
+      "discount": 0.45,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+4.png",
+      "category": "Chairs",
+      "tags": [
+        "Ottoman",
+        "Versatile",
+        "Removable Lid",
+        "Comfortable Seat"
+      ]
+    },
+    {
+      "id": "141",
+      "name": "Helsinki Dining Set",
+      "description": "A contemporary dining set featuring a round table and four upholstered chairs, perfect for casual dining.",
+      "rating": 4.7,
+      "isNew": false,
+      "price": 290000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+5.png",
+      "category": "Sets",
+      "tags": [
+        "Dining Set",
+        "Contemporary",
+        "Round Table",
+        "Upholstered Chairs"
+      ]
+    },
+    {
+      "id": "142",
+      "name": "Prague Bed",
+      "description": "A modern bed frame with a sleek design and a low profile, ideal for minimalist and contemporary bedrooms.",
+      "rating": 4.8,
+      "isNew": false,
+      "price": 240000,
+      "discount": 0.32,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+6.png",
+      "category": "Beds",
+      "tags": [
+        "Bed",
+        "Modern",
+        "Sleek Design",
+        "Low Profile"
+      ]
+    },
+    {
+      "id": "143",
+      "name": "Venice Coffee Table",
+      "description": "A chic coffee table with a mirrored top and a sturdy metal base, adding a touch of glamour to your living space.",
+      "rating": 4.9,
+      "isNew": false,
+      "price": 99000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+7.png",
+      "category": "Tables",
+      "tags": [
+        "Coffee Table",
+        "Chic",
+        "Mirrored Top",
+        "Glamour"
+      ]
+    },
+    {
+      "id": "144",
+      "name": "Berlin Lounge Chair",
+      "description": "A stylish lounge chair with a unique, modern design and plush seating, perfect for relaxing in style.",
+      "rating": 4.6,
+      "isNew": false,
+      "price": 145000,
+      "discount": 0.01,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+8.png",
+      "category": "Chairs",
+      "tags": [
+        "Lounge Chair",
+        "Stylish",
+        "Modern Design",
+        "Plush Seating"
+      ]
+    },
+    {
+      "id": "145",
+      "name": "Rome Console Table",
+      "description": "An elegant console table with a wooden top and a sleek metal frame, ideal for hallways and entryways.",
+      "rating": 4.7,
+      "isNew": false,
+      "price": 89000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+1.png",
+      "category": "Tables",
+      "tags": [
+        "Console Table",
+        "Elegant",
+        "Wooden Top",
+        "Metal Frame"
+      ]
+    },
+    {
+      "id": "146",
+      "name": "Chicago Bookshelf",
+      "description": "A spacious bookshelf with a modern industrial design, providing ample storage for books and decorative items.",
+      "rating": 4.8,
+      "isNew": false,
+      "price": 125000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+2.png",
+      "category": "Storage",
+      "tags": [
+        "Bookshelf",
+        "Spacious",
+        "Industrial Design",
+        "Storage"
+      ]
+    },
+    {
+      "id": "147",
+      "name": "Seoul Armchair",
+      "description": "A modern armchair with a minimalist design and soft fabric upholstery, ideal for contemporary living rooms.",
+      "rating": 4.6,
+      "isNew": true,
+      "price": 98000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+3.png",
+      "category": "Chairs",
+      "tags": [
+        "Armchair",
+        "Modern",
+        "Minimalist Design",
+        "Soft Fabric"
+      ]
+    },
+    {
+      "id": "148",
+      "name": "Vienna Coffee Table",
+      "description": "A contemporary coffee table with a wooden top and sleek metal legs, perfect for modern living spaces.",
+      "rating": 4.7,
+      "isNew": false,
+      "price": 86000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+4.png",
+      "category": "Tables",
+      "tags": [
+        "Coffee Table",
+        "Contemporary",
+        "Wooden Top",
+        "Metal Legs"
+      ]
+    },
+    {
+      "id": "149",
+      "name": "Singapore Floor Lamp",
+      "description": "A stylish floor lamp with a tall, slender design and an adjustable shade, providing versatile lighting options.",
+      "rating": 4.8,
+      "isNew": false,
+      "price": 54000,
+      "discount": 0,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+5.png",
+      "category": "Lighting",
+      "tags": [
+        "Floor Lamp",
+        "Stylish",
+        "Adjustable Shade",
+        "Versatile"
+      ]
+    },
+    {
+      "id": "150",
+      "name": "Dublin Sofa",
+      "description": "A comfortable sofa with a classic design and durable fabric, perfect for any living room setting.",
+      "rating": 4.7,
+      "isNew": false,
+      "price": 265000,
+      "discount": 0.64,
+      "images": [],
+      "cover": "https://furniro-bucket.s3.us-east-2.amazonaws.com/products/image+6.png",
+      "category": "Sofas",
+      "tags": [
+        "Sofa",
+        "Comfortable",
+        "Classic Design",
+        "Durable Fabric"
+      ]
+    }
+  ]
+}
